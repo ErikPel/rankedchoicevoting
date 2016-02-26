@@ -1,6 +1,6 @@
 # rankedchoicevoting
 Python code for doing instant runoff voting polls
-
+Did this for another project but it didn't end up being needed. Maybe someone can get something useful done with it.
 
 #Usage example:
 
